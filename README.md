@@ -1,4 +1,4 @@
--Trường: Đại học Bách Khoa Hà Nội
--Môn: Thực hành cơ sở dữ liệu - IT3290
--Lớp: 130989
--Giảng Viên: Trần Hồng Việt
+- Trường: Đại học Bách Khoa Hà Nội
+- Môn: Thực hành cơ sở dữ liệu - IT3290
+- Lớp: 130989
+- Giảng Viên: Trần Hồng Việt
